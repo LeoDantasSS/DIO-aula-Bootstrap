@@ -35,4 +35,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <h2 id="Project"> Projeto </h2>
 
-o projeto foi desenvolvido na plataforma <a href="web.digitalinnovation.one/">Digital Innovation One</a> onde foi conceituado termos do framework Bootstrap, mostrando o uso de suas classes que apresenta uma configuração de CSS predefinida, consequentemente acaba diminuindo o uso do CSS, e mostrando as características de responsividade que o Bootstrap já traz tornado a experiência usuário melhor.
+O projeto foi desenvolvido na plataforma <a href="web.digitalinnovation.one/">Digital Innovation One</a> onde foi conceituado termos do framework Bootstrap, mostrando o uso de suas classes que apresenta uma configuração de CSS predefinida, consequentemente acaba diminuindo o uso do CSS, e mostrando as características de responsividade que o Bootstrap já traz tornado a experiência usuário melhor.
